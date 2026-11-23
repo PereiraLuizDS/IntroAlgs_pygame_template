@@ -7,6 +7,9 @@ from Inicio import executar_tela_menu
 from tela import executar_tela_jogo, tela, relogio
 
 
+# =====================================================================
+# 1. GERENCIADOR DE ESTADOS DO JOGO
+# =====================================================================
 def iniciar_sistema():
     estado_atual = "MENU"
 
